@@ -1,7 +1,10 @@
 # ECommerce-Sales-Dashboard
 
+
 ## Description
      The US based ECommerce Sales Company wants us to create a Sales Dashboard showing information of YTD (Year to Date) Sales and generate various insights under different scenarios given in the problem Statement. The data set is obtained from the Kaggle website.
+
+![dashboard](ECommerce-Sales-Report.png)
 
 ## Problem Statement
 1. Create KPI Banner showing YTD Sales, YTD Profit, YTD Quantity sold, YTD Profit Margin
